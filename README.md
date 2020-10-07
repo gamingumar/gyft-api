@@ -11,3 +11,7 @@
 - Run ``` node gyft.js ```
 
 
+### API Client
+
+- Adding Signature header is the key, 
+- You can add ```x-sig-timestamp``` in any API client.
